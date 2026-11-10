@@ -17,4 +17,7 @@ During the pilot the app is not yet registered with Apple, so macOS warns on fir
 2. Open **System Settings ▸ Privacy & Security**, scroll down, click **Open Anyway** next to Chemability.
 3. From then on it opens normally.
 
-Made by Chalakon Pornjariyawatch, a chemistry student at Kasetsart University.
+---
+
+**Designed and built by Chalakon Pornjariyawatch**  
+DPST Scholar · B.Sc. Chemistry, Faculty of Science · Kasetsart University
